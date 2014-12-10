@@ -1,0 +1,29 @@
+#navigation {
+
+  ul {
+    list-style-type: none;
+  }
+
+  p, ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  display: inline-block;
+  padding: 1em 2em;
+  margin: 2.5em;
+  margin-top: 0em;
+  background-color: #a0a0a0;
+  border-radius: 5px;
+  border: 1px solid #000;
+  font-size: 1.15em;
+  float: left;
+
+  li {
+    margin: 2em 0;
+    padding: 1em;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color: #c8c8c8;
+  }
+}
