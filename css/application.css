@@ -43,6 +43,7 @@ header h1 {
 
 /* line 1, ../sass/components/_navigation.scss */
 #navigation {
+  text-align: center;
   display: inline-block;
   padding: 1em 2em;
   margin: 2.5em;
@@ -62,7 +63,7 @@ header h1 {
   margin: 0;
   padding: 0;
 }
-/* line 22, ../sass/components/_navigation.scss */
+/* line 23, ../sass/components/_navigation.scss */
 #navigation li {
   margin: 2em 0;
   padding: 1em;
