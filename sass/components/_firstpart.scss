@@ -22,8 +22,13 @@
 }
 
 #baseball:hover {
-  -ms-transform: rotate(2880deg);
-  -webkit-transform: rotate(2880deg);
-  transform: rotate(2880deg);
+  -ms-transform: rotate(5760deg);
+  -webkit-transform: rotate(5760deg);
+  transform: rotate(5760deg);
   transition-duration: 20s;
+}
+
+.credit {
+  text-align: right;
+  font-size: .75em;
 }
